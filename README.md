@@ -1,1 +1,1 @@
-# array-sorting-algoritms
+# array-sorting-algorithms
